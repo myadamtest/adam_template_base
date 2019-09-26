@@ -1,4 +1,4 @@
-module github.com/myadamtest/adambase
+module github.com/myadamtest/adam_model_base
 
 go 1.12
 
